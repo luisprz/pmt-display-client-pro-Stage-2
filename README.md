@@ -1,5 +1,6 @@
-🖥️ PMT Display Pro — Fire TV Digital Signage Client (finishing STAGE 1, 
-Ready for stage 2)
+🖥️ PMT Display Pro — Fire TV Digital Signage Client 
+(finishing STAGE 1, Ready for stage 2)
+
 Enterprise-grade signage client powered by Flutter + GitHub JSON backend
 ✨ Overview
 
